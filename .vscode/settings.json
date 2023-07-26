@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/hollyzhang/Documents/GitHub/Crawler-Parallel",
+            "binaryPath": "/Users/hollyzhang/Documents/GitHub/Crawler-Parallel/crawler",
+            "binaryArgs": []
+        }
+    ]
+}
